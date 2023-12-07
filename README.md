@@ -1,6 +1,8 @@
 # DSC510-Descriptive-Statistics-with-Python
  An assignment for DSC510 at GCU that focused on analyzing measures of central tendency and variability in real-world datasets, as well as identifying and dealing with potential sources of bias.
 
+ I recorded a video going over my findings, check it out [here.](https://youtu.be/0yjMIZrjdyY)
+
  # Assignment Instructions
 
 This assignment aims to develop students' skills in data analysis and statistical methods using Python. By working with real-world datasets, students will learn how to identify and handle outliers, deal with missing data, analyze measures of central tendency and variability, and create meaningful visualizations. Additionally, students will gain an understanding of potential sources of bias and confounding variables, further enhancing their critical thinking and decision-making abilities in data analysis.
